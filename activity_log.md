@@ -7,3 +7,4 @@
 - [2026-03-11T20:22:59Z] style: apply consistent code formatting
 - [2026-03-11T09:55:22Z] feat: add helper utility function
 - [2026-03-18T19:27:19Z] refactor: clean up unused imports
+- [2026-03-18T19:32:06Z] docs: improve inline documentation
